@@ -1,0 +1,6 @@
+Go to the spotify website and get a
+
+client id 
+client secret
+
+then store them in the authentication folder. 
