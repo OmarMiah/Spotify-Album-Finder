@@ -2,7 +2,7 @@
 =-=-=-=-=-=-=-=-=-=-=-=-
 Album Art Search
 =-=-=-=-=-=-=-=-=-=-=-=-
-Student ID: 23592773
+Student ID: 
 Comment (Required):
 
 =-=-=-=-=-=-=-=-=-=-=-=-
