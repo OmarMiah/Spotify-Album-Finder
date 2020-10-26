@@ -5,4 +5,4 @@ Thanks for checking out my Spotify project!
 
 You will need a client-id and a client-secret.
 
-Head on to [link text itself]:https://developer.spotify.com/documentation/general/guides/authorization-guide/ to find out how to get your client id 
+Head on to [Spotify's authorization guide ](https://developer.spotify.com/documentation/general/guides/authorization-guide/) to find out how to get your client id 
